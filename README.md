@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## WeAther_insTanCe
+
+A weather app used to find the temperature of each location entered along with the day and date.
 
 In the project directory, you can run:
 
